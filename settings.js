@@ -25,24 +25,24 @@ global.ownernomer = '18728176690'
 global.ownername = '🐦Star Boy Nexus'
 global.botname = 'AMIN_BGS'
 global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
+global.ig = 'https://github.com/'
 global.region = 'tetoun.morocco'
-global.sc = 'hhttps://github.com/Bomiro'
+global.sc = 'hhttps://github.com/'
 global.myweb = 'https://www.instagram.com/a5.xev'
 global.packname = 'AMIN_BGS'
-global.author = '🐦Star Boy Nexus'
+global.author = '🐦Star'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    admin: '5assa b Admin!',
+    botAdmin: 'hata nkon admin ba3da!',
+    owner: 'nta maxi Owner!',
+    group: 'had almiza katasta3mal f Groups!',
+    private: 'had almiza katasta3mal f prv!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'stana 5adi nsarad lak...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
